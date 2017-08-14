@@ -39,3 +39,19 @@ Modify the scrpit with the keys you obtained:
 
     CONSUMER_KEY = 'PUT_HERE_YOUR_CONSUMER_KEY'
     CONSUMER_SECRET = 'PUT_HERE_YOUR_CONSUMER_SECRET'
+    
+## Features
+
+The tool, by means of Twitter REST API, gets Followers and Friends of a given user. it provides the New followers and the Lost followers since the previous run.
+
+It gives also the Not Following Friends: the Friends not following the given user.
+
+    Tot: 520 follower.
+    New follower: 10
+    Lost follower: 1
+    Unchanged follower: 509
+    
+    Tot: 795 friends.
+    Friends not following: 355
+
+In verbose mode, the tool gives the lists of New Followers, of Lost Followers and Not Following Friends.
