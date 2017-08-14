@@ -5,7 +5,7 @@ import pickle
 import argparse
 
 '''
-   twitter_miner.py by Pierfrancesco Ghedini
+   twitter_users.py by Pierfrancesco Ghedini
    Twitter account @pierfghedini
    http://informaticasanitaria.it
    Pithon 3 and Python 2 tested
