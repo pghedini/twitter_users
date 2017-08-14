@@ -28,3 +28,14 @@ to get the following usage notes:
       -u USER, --user USER  User to work on
       -r, --rate            Maximun rate of query
   
+## Get your Twitter keys to autenticate
+In order to use the script you have to obtain keys from Twitter.
+
+Go to "Twitter Application Management" at https://apps.twitter.com/
+
+Sign in and follow instructions to accreditate your APP.
+
+Modify the scrpit with the keys you obtained:
+
+    CONSUMER_KEY = 'PUT_HERE_YOUR_CONSUMER_KEY'
+    CONSUMER_SECRET = 'PUT_HERE_YOUR_CONSUMER_SECRET'
